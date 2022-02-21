@@ -1,7 +1,7 @@
 # DialogUI
 
 # FR
-- DialogUI est une petite interface permettant d'effectuer jusqu'à quatre action différentes
+- DialogUI est une petite interface permettant d'effectuer jusqu'à quatre actions différentes
 - Toutes les configurations nécessaire ce trouve dans le fichier options.lua
 - Optimisation: 0.00ms
 - Pour tout support: Yatox#8403 | AigleIsBack#7053
