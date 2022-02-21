@@ -11,3 +11,6 @@
 - All the necessary configurations can be found in the options.lua file
 - Optimization 0.00 ms
 - For any question Yatox#8403 | AigleIsBack#7053
+
+# Preview 
+https://streamable.com/uyojzs
