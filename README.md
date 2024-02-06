@@ -1,16 +1,51 @@
 # DialogUI
 
-# FR
-- DialogUI est une petite interface permettant d'effectuer jusqu'à quatre actions différentes
-- Toutes les configurations nécessaires se trouve dans le fichier options.lua
-- Optimisation: 0.00ms
-- Pour tout support: Yatox#8403 | AigleIsBack#7053
+DialogUI is a sleek interface designed for executing up to four distinct actions seamlessly.
 
-# EN
-- DialogUI is a small interface allowing to perform up to four different actions
-- All the necessary configurations can be found in the options.lua file
-- Optimization 0.00 ms
-- For any question Yatox#8403 | AigleIsBack#7053
+All necessary configurations are neatly organized in the `options.lua` file, ensuring easy customization.
 
-# Preview 
-https://www.youtube.com/watch?v=1YqwuGhPU9E
+Optimization: 0.00 ms
+
+This resource is a collaborative creation by Yatox and AigleIsBack.
+
+## ↓ YouTube Preview ↓
+
+[![Watch the Preview](images/dialogUI.png)](https://www.youtube.com/watch?v=1YqwuGhPU9E)
+
+---
+
+## Features
+
+- **User-Friendly:** DialogUI provides a user-friendly experience, making interactions intuitive.
+- **Configuration:** Easily customize the interface using the options.lua file.
+- **Optimized Performance:** Enjoy smooth performance with an optimization time of 0.00 ms.
+
+## Getting Started
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/your-username/DialogUI.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd DialogUI
+    ```
+
+3. Explore and modify the `options.lua` file to suit your needs.
+
+4. Run the application and experience the seamless interface.
+
+## Contributions
+
+We welcome contributions to enhance DialogUI. Feel free to fork the project, make improvements, and submit pull requests.
+
+## Issues
+
+If you encounter any issues or have suggestions, please open an issue on the GitHub repository.
+
+---
+
+Feel free to customize the added sections based on the specific details of your project.
